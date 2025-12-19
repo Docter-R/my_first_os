@@ -1,0 +1,1 @@
+/home/Zhang/rust_exercise/my_os/user/target/riscv64gc-unknown-none-elf/release/ch2b_power_3: /home/Zhang/rust_exercise/my_os/user/src/bin/ch2b_power_3.rs /home/Zhang/rust_exercise/my_os/user/src/console.rs /home/Zhang/rust_exercise/my_os/user/src/lang_items.rs /home/Zhang/rust_exercise/my_os/user/src/lib.rs /home/Zhang/rust_exercise/my_os/user/src/syscall.rs

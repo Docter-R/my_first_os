@@ -1,0 +1,1 @@
+/home/Zhang/rust_exercise/my_os/user/target/riscv64gc-unknown-none-elf/release/ch2b_bad_address: /home/Zhang/rust_exercise/my_os/user/src/bin/ch2b_bad_address.rs /home/Zhang/rust_exercise/my_os/user/src/console.rs /home/Zhang/rust_exercise/my_os/user/src/lang_items.rs /home/Zhang/rust_exercise/my_os/user/src/lib.rs /home/Zhang/rust_exercise/my_os/user/src/syscall.rs

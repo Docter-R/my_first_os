@@ -16,6 +16,7 @@ pub trait QEMUExit {
     /// Exit QEMU using `EXIT_SUCCESS`, aka `0`, if possible.
     ///
     /// Note: Not possible for `X86`.
+    #[allow(dead_code)]
     fn exit_success(&self) -> !;
 
     /// Exit QEMU using `EXIT_FAILURE`, aka `1`.
